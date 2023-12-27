@@ -7,7 +7,8 @@
             "subtxt": "As a passionate full-stack developer, I orchestrate innovative solutions, leveraging cutting-edge tech to showcase mastery in a captivating portfolio that speaks excellence.",
             "hireMebtn": "Contact me",
             "projectsBtn": "My work",
-            "footertxt": "Developed by Brandon Roulstone"
+            "footertxt": "Developed by Brandon Roulstone",
+            "bgimg": "https://cdn-thumbs.imagevenue.com/30/4c/2e/ME17D2OH_t.jpg"
         }
     ],
     "about" : [
@@ -28,7 +29,8 @@
                 "VueJs": "",
                 "VueX": "",
                 "C++": ""
-            }]
+            }],
+            "bgimg": "https://cdn-thumbs.imagevenue.com/30/4c/2e/ME17D2OH_t.jpg"
         }
     ],
     "projects" : [
