@@ -1,0 +1,152 @@
+{
+    "intro" : [
+        {
+            "logo": "https://i.postimg.cc/kgdRh84c/artist.png",
+            "welcome": "I am Brandon Roulstone",
+            "textsm": "Web developer & designer",
+            "subtxt": "As a passionate full-stack developer, I orchestrate innovative solutions, leveraging cutting-edge tech to showcase mastery in a captivating portfolio that speaks excellence.",
+            "hireMebtn": "Contact me",
+            "projectsBtn": "My work",
+            "footertxt": "Developed by Brandon Roulstone"
+        }
+    ],
+    "about" : [
+        {
+            "topText": "About Brandon",
+            "pText": "I'm Brandon Roulstone, a 20-year-old individual propelled by an unwavering dedication to excellence and an unquenchable thirst for pushing boundaries. Since youth, I've cultivated an exceptional work ethic that fuels my journey in academia and beyond.My pursuit of excellence defines every facet of my life. Be it academics, sports, or delving into the captivating world of coding, I relentlessly strive to surpass expectations. Once I set my sights on a goal, my determination propels me to achieve outstanding results. This unyielding commitment has consistently set me apart, enabling me to deliver nothing short of my best.Beyond my dedication to excellence, I'm fueled by an undying passion for sports. From a tender age, I immersed myself in various sports, sculpting not just my physical prowess but also nurturing invaluable life skills like discipline, teamwork, and unwavering perseverance.Simultaneously, my fascination with coding emerged as a parallel passion. Engaging with coding isn't just about writing lines of code; it's a journey where logic intertwines with creativity, enabling me to tackle complex challenges methodically.The fusion of my athletic endeavors and coding pursuits has been instrumental in honing my ability to think critically and strategically. Whether on the field or behind a screen, the same determination and resilience propel me forward, seeking optimal solutions and pushing boundaries.This dual pursuit isn't merely about mastering two different domains; it's a testament to my adaptability, agility, and unrelenting thirst for growth in diverse arenas.",
+            "myImage": "https://i.postimg.cc/15Qm4Y9w/straw-hat-monkey-d-luffy.jpg",
+            "imgAlt": "Brandon_Roulstone",
+            "expertise": [{
+                "html5": "",
+                "css": "",
+                "styleX": "",
+                "JavaScript": "",
+                "NodeJs": "",
+                "ReactJS": "",
+                "Redux": "",
+                "Python": "",
+                "VueJs": "",
+                "VueX": "",
+                "C++": ""
+            }]
+        }
+    ],
+    "projects" : [
+        {
+            "id": 1,
+            "image": "https://cdn-thumbs.imagevenue.com/62/ba/42/ME17CTQA_t.png",
+            "name": "",
+            "live": "",
+            "Github": "",
+            "aboutProject": ""
+        },
+        {
+            "id": 2,
+            "image": "",
+            "name": "",
+            "live": "",
+            "Github": "",
+            "aboutProject": ""
+        },
+        {
+            "id": 3,
+            "image": "",
+            "name": "",
+            "live": "",
+            "Github": "",
+            "aboutProject": ""
+        },
+        {
+            "id": 4,
+            "image": "",
+            "name": "",
+            "live": "",
+            "Github": "",
+            "aboutProject": ""
+        },
+        {
+            "id": 5,
+            "image": "",
+            "name": "",
+            "live": "",
+            "Github": "",
+            "aboutProject": ""
+        },
+        {
+            "id": 6,
+            "image": "",
+            "name": "",
+            "live": "",
+            "Github": "",
+            "aboutProject": ""
+        }
+    ],
+    "testimonials" : [
+        {
+            "id": 1,
+            "image": "",
+            "personname": "",
+            "text": ""
+        },
+        {
+            "id": 2,
+            "image": "",
+            "personname": "",
+            "text": ""
+        },
+        {
+            "id": 3,
+            "image": "",
+            "personname": "",
+            "text": ""
+        },
+        {
+            "id": 4,
+            "image": "",
+            "personname": "",
+            "text": ""
+        },
+        {
+            "id": 5,
+            "image": "",
+            "personname": "",
+            "text": ""
+        },
+        {
+            "id": 6,
+            "image": "",
+            "personname": "",
+            "text": ""
+        },
+        {
+            "id": 7,
+            "image": "",
+            "personname": "",
+            "text": ""
+        },
+        {
+            "id": 8,
+            "image": "",
+            "personname": "",
+            "text": ""
+        },
+        {
+            "id": 9,
+            "image": "",
+            "personname": "",
+            "text": ""
+        }
+    ],
+    "contact" : [
+        {
+            "linkedIn": "",
+            "github": "",
+            "gmail": "brandonRoulstone465@gmail.com"
+        }
+    ],
+    "Resume" : [
+        {
+            "link": ""
+        }
+    ]
+}
