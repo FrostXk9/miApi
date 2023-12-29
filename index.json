@@ -2,6 +2,7 @@
     "intro" : [
         {
             "logo": "https://i.postimg.cc/kgdRh84c/artist.png",
+            "logotxt": "Brandon Roulstone",
             "welcome": "I am Brandon Roulstone",
             "textsm": "Web Developer & Designer",
             "subtxt": "As a passionate full-stack developer, I orchestrate innovative solutions, leveraging cutting-edge tech to showcase mastery in a captivating portfolio that speaks excellence.",
